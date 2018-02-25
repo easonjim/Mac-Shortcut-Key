@@ -6,6 +6,8 @@ https://support.apple.com/kb/PH18802?locale=zh_CN
 https://support.apple.com/zh-cn/HT201255  
 https://support.apple.com/zh-cn/HT204434  
 https://support.apple.com/kb/PH21538?locale=zh_CN&viewlocale=zh_CN  
+##### Markdown表格转换工具：
+http://markdowntables.mrvautin.com/  
 # Mac 键盘快捷键
 您可以按下组合键来实现通常需要鼠标、触控板或其他输入设备才能完成的操作。  
 要使用键盘快捷键，请按住一个或多个修饰键，同时按快捷键的最后一个键。例如，要使用快捷键 Command-C（拷贝），请按住 Command 键并按 C 键，然后同时松开这两个键。Mac 菜单和键盘通常对某些按键使用符号，其中包括以下修饰键：  
@@ -212,8 +214,7 @@ https://support.apple.com/kb/PH21538?locale=zh_CN&viewlocale=zh_CN
 |--- |--- |
 |显示辅助功能选项|Option-Command-F5
 或在受支持的机型上1，连按三次 Touch ID（电源按钮）|
-|开启或关闭 VoiceOver2|Command-F5 或 Fn-Command-F5
-或在受支持的机型上1，按住 Command 键并连按三次 Touch ID（电源按钮）|
+|开启或关闭 VoiceOver2|Command-F5 或 Fn-Command-F5 或在受支持的机型上1，按住 Command 键并连按三次 Touch ID（电源按钮）|
 |打开 VoiceOver 实用工具（如果 VoiceOver 已开启）2|Control-Option-F8 或 Fn-Control-Option-F8|
 |开启或关闭缩放功能3|Option-Command-8|
 |放大3|Option-Command-加号 (+)|
@@ -239,8 +240,7 @@ MacBook Pro（15 英寸，2016 年末）、MacBook Pro（13 英寸，2016 年末
 |移至上一个控件|Shift-Tab|
 |选定文本栏时移至下一个控件|Control-Tab|
 |将焦点移至上一组控件|Control-Shift-Tab|
-|移至列表、标签组或菜单中的相邻项
-移动滑块和调整器（向上箭头可增大值，向下箭头可减小值）|箭头键|
+|移至列表、标签组或菜单中的相邻项移动滑块和调整器（向上箭头可增大值，向下箭头可减小值）|箭头键|
 |移至与文本栏相邻的控件|Control-箭头键|
 |选取所选菜单项|空格键|
 |点按默认按钮或执行默认操作|Return 或 Enter|
