@@ -195,14 +195,11 @@ Control–Option–Command–介质推出键|退出所有应用，然后关闭 M
 |在启动期间按住|描述|
 |--- |--- |
 |Shift (⇧)|以安全模式启动。|
-|Option (⌥)|启动进入启动管理器，您可以从中选取其他启动磁盘（若可用）。 
-如果您的 Mac 使用了固件密码，系统会要求您先输入这个密码。|
+|Option (⌥)|启动进入启动管理器，您可以从中选取其他启动磁盘（若可用）。如果您的 Mac 使用了固件密码，系统会要求您先输入这个密码。|
 |D|从内建的 Apple Hardware Test 或 Apple Diagnostics 实用工具启动，具体取决于您的 Mac 机型。或者，您也可以使用 Option-D 通过互联网从该实用工具启动。|
-|N|从兼容的 NetBoot 服务器（若可用）启动。要使用 NetBoot 服务器上默认的引导映像，则请按住 Option-N。
-iMac Pro 不支持这个启动键。|
+|N|从兼容的 NetBoot 服务器（若可用）启动。要使用 NetBoot 服务器上默认的引导映像，则请按住 Option-N。iMac Pro 不支持这个启动键。|
 |Command-R|从内建的 macOS 恢复系统启动。或者，您也可以使用 Option-Command-R 或 Shift-Option-Command-R 以通过互联网从 macOS 恢复功能启动。macOS 恢复功能可以安装不同版本的 macOS，具体取决于您在电脑启动时使用的组合键。|
-|Option-Command (⌘)-P-R|重置 NVRAM（或 PRAM）。
-使用固件密码时，您的 Mac 会忽略这个组合键或从 macOS 恢复功能启动。要重置 NVRAM，请先关闭固件密码。|
+|Option-Command (⌘)-P-R|重置 NVRAM（或 PRAM）。使用固件密码时，您的 Mac 会忽略这个组合键或从 macOS 恢复功能启动。要重置 NVRAM，请先关闭固件密码。|
 |Command-S|以单用户模式启动。|
 |T|以目标磁盘模式启动。|
 |Command-V|以详细模式启动。|
