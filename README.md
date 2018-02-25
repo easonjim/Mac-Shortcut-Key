@@ -45,15 +45,11 @@ Fn
 ## 睡眠、退出登录和关机快捷键
 |快捷键|描述|
 |--- |--- |
-|电源按钮|按下可打开 Mac 电源或将 Mac 从睡眠状态唤醒。
-当 Mac 处于唤醒状态时，按住这个按钮 1.5 秒钟会显示一个对话框，询问您是要睡眠、重新启动还是关机。如果您不想等待 1.5 秒钟，请按下 Control–电源按钮或 Control–介质推出键 。*
-按住这个按钮 5 秒钟会强制 Mac 关机。|
-|Control–Command–电源按钮|强制 Mac 重新启动。*|
-|Control–Shift–电源按钮或
-Control–Shift–介质推出键|将显示器置于睡眠状态。*|
-|Control–Command–介质推出键|退出所有应用，然后重新启动 Mac。如果任何打开的文稿有未存储的更改，系统就会询问您要不要存储这些更改。*|
-|Control–Option–Command–电源按钮或
-Control–Option–Command–介质推出键|退出所有应用，然后关闭 Mac。如果任何打开的文稿有未存储的更改，系统就会询问您要不要存储这些更改。*|
+|电源按钮|按下可打开 Mac 电源或将 Mac 从睡眠状态唤醒。当 Mac 处于唤醒状态时，按住这个按钮 1.5 秒钟会显示一个对话框，询问您是要睡眠、重新启动还是关机。如果您不想等待 1.5 秒钟，请按下 Control–电源按钮或 Control–介质推出键 。按住这个按钮 5 秒钟会强制 Mac 关机。|
+|Control–Command–电源按钮|强制 Mac 重新启动。|
+|Control–Shift–电源按钮或Control–Shift–介质推出键|将显示器置于睡眠状态。|
+|Control–Command–介质推出键|退出所有应用，然后重新启动 Mac。如果任何打开的文稿有未存储的更改，系统就会询问您要不要存储这些更改。|
+|Control–Option–Command–电源按钮或Control–Option–Command–介质推出键|退出所有应用，然后关闭 Mac。如果任何打开的文稿有未存储的更改，系统就会询问您要不要存储这些更改。|
 |Shift-Command-Q|退出登录您的 macOS 用户帐户。系统将提示您确认。|
 |Option-Shift-Command-Q|立即退出登录您的 macOS 用户帐户，且系统不提示您确认。|
 ## 文稿快捷键
@@ -115,12 +111,9 @@ Control–Option–Command–介质推出键|退出所有应用，然后关闭 M
 |Option-Command-I|显示或隐藏检查器窗口。|
 |Shift-Command-P|页面设置：显示用于选择文稿设置的窗口。|
 |Shift-Command-S|显示“存储为”对话框或复制当前文稿。|
-|Shift–Command–
-减号 (-)|缩小所选项。|
-|Shift–Command–
-加号 (+)|放大所选项。Command–等号 (=) 可执行相同的功能。|
-|Shift–Command–
-问号 (?)|打开“帮助”菜单。|
+|Shift–Command–减号 (-)|缩小所选项。|
+|Shift–Command–加号 (+)|放大所选项。Command–等号 (=) 可执行相同的功能。|
+|Shift–Command–问号 (?)|打开“帮助”菜单。|
 ## “访达”快捷键
 |快捷键|描述|
 |--- |--- |
@@ -163,8 +156,8 @@ Control–Option–Command–介质推出键|退出所有应用，然后关闭 M
 |Command-2|以列表方式显示“访达”窗口中的项目。|
 |Command-3|以分栏方式显示“访达”窗口中的项目。|
 |Command-4|以封面流方式显示“访达”窗口中的项目。|
-|Command–左中括号 ([)|前往上一文件夹。|
-|Command–右中括号 (])|前往下一文件夹。|
+|Command–左中括号 (\[)|前往上一文件夹。|
+|Command–右中括号 (\])|前往下一文件夹。|
 |Command–上箭头|打开包含当前文件夹的文件夹。|
 |Command–Control–上箭头|在新窗口中打开包含当前文件夹的文件夹。|
 |Command–下箭头|打开所选项。|
